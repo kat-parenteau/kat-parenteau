@@ -1,8 +1,8 @@
 # Hi there, I'm Kathryn 👋
 
-## 🕵️‍♀️ Financial Crime Analytics | Risk Management | GRC
+## 🕵️‍♀️ AML | Financial Crime Analytics | Risk Management | GRC
 
-I am a Risk & Compliance professional bridging the gap between regulatory theory and technical execution. With an academic foundation in Computing and Cognitive Science from Queen's University, I specialize in understanding the psychological mechanics of financial crime (social engineering, fraud) and translating those typologies into data-driven, automated controls.
+I am a technical professional bridging the gap between regulatory theory and technical execution. With an academic foundation in Computing (specializing in Cognitive Science) from Queen's University, I specialize in understanding the psychological mechanics of financial crime (social engineering, fraud) and translating those typologies into data-driven, automated controls.
 
 My focus is on Anti-Money Laundering (AML), Counter-Terrorist Financing (ATF), and building the technical workflows that keep institutions compliant and secure.
 
