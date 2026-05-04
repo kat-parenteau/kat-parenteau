@@ -2,8 +2,6 @@
 
 ## 🕵️‍♀️ Financial Crime Analytics | Risk Management | GRC
 
-![](https://komarev.com/ghpvc/?username=kat-parenteau&color=red)
-
 I am a Risk & Compliance professional bridging the gap between regulatory theory and technical execution. With an academic foundation in Computing and Cognitive Science from Queen's University, I specialize in understanding the psychological mechanics of financial crime (social engineering, fraud) and translating those typologies into data-driven, automated controls.
 
 My focus is on Anti-Money Laundering (AML), Counter-Terrorist Financing (ATF), and building the technical workflows that keep institutions compliant and secure.
@@ -37,3 +35,5 @@ My focus is on Anti-Money Laundering (AML), Counter-Terrorist Financing (ATF), a
 Looking for opportunities in AML Analytics, Fraud Investigation, and GRC Operations.
 
 *   **LinkedIn:** [linkedin.com/in/kathryn-parenteau](https://linkedin.com/in/kathryn-parenteau)
+
+![](https://komarev.com/ghpvc/?username=kat-parenteau&color=red)
