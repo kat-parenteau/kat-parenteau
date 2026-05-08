@@ -4,7 +4,7 @@
 
 I am a technical professional bridging the gap between regulatory theory and technical execution. With an academic foundation in Computing (specializing in Cognitive Science) from Queen's University, I specialize in understanding the psychological mechanics of financial crime (social engineering, fraud) and translating those typologies into data-driven, automated controls.
 
-My focus is on Anti-Money Laundering (AML), Counter-Terrorist Financing (ATF), and building the technical workflows that keep institutions compliant and secure.
+My focus is on AML, Fraud Analysis, and Compliance.
 
 ---
 
