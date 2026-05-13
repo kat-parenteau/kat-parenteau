@@ -17,7 +17,7 @@ My focus is on AML, Fraud Analysis, and Compliance.
 *   **[AML/ATF Financial Crime Typology Analysis](https://github.com/kat-parenteau/FINTRAC-OA001-review)**
     Analyzed FINTRAC operational alerts to deconstruct romance fraud methodologies. Mapped psychological manipulation tactics to specific transactional and behavioral risk indicators, designing internal controls and rule-based monitoring logic to mitigate institutional risk.
 *   **[CSV Data Analysis & Visualization](https://github.com/kat-parenteau/neuro-bold-viz)**
-    Utilized Python (NumPy) and custom CSV datasets to programmatically identify and visualize data!
+    Utilized Python (NumPy) and custom CSV datasets to identify and visualize data programmatically!
 
 ---
 
@@ -26,7 +26,7 @@ My focus is on AML, Fraud Analysis, and Compliance.
 *   **Risk & Compliance (GRC):** AML/ATF Fundamentals, KYC/EDD, Sanctions Screening, Typology Research, Regulatory Reporting (FINTRAC).
 *   **Data & Analytics:** SQL (MySQL), Python (NumPy, Data Validation, Automation), Excel (Pivot Tables, Dashboarding).
 *   **Security & Infrastructure:** Vulnerability Scanning (Nmap, Wireshark), SIEM Concepts, NIST Framework, ISO 27001 Concepts.
-*   **Certifications:** ISC2 Certified in Cybersecurity (CC) (In Progress) | UNODC AML/CFT (In Progress) | eJPT (In Progress)
+*   **Certifications:** AML Fundamentals Certified | MS Office Specialist: Associate | UNODC AML/CFT (In Progress)
 
 ---
 
@@ -34,6 +34,6 @@ My focus is on AML, Fraud Analysis, and Compliance.
 
 Looking for opportunities in AML Analytics, Fraud Investigation, and GRC Operations.
 
-*   **LinkedIn:** [linkedin.com/in/kathryn-parenteau](https://linkedin.com/in/kathryn-parenteau)
+*   **LinkedIn:** [linkedin.com/in/kathryn-parenteau](https://linkedin.com/in/kathryn-parenteau/)
 
 ![](https://komarev.com/ghpvc/?username=kat-parenteau&color=red)
