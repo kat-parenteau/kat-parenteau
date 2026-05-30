@@ -24,7 +24,7 @@ Outside the classroom, I build and learn rigorously. The projects below are a re
 *   **Certifications:** AML Fundamentals Certified | MS Office Specialist: Associate *(In Progress)* | UNODC AML/CFT *(In Progress)*
 ---
 ### 📫 Let's Connect
-Looking for opportunities in AML Analytics, Fraud Investigation, and GRC Operations — actively seeking Summer/Fall 2026 co-op/internship placements (Sept – Dec).
+I'm always looking to connect with industry professionals, so feel free to shoot me message! I'm open to any opportunities in AML, Financial Crime, or GRC! Actively seeking Fall 2026 co-op/internship placements (Sept – Dec) and New Grad roles (May 2027).
 *   **LinkedIn:** [linkedin.com/in/kathryn-parenteau](https://linkedin.com/in/kathryn-parenteau/)
 
 ![](https://komarev.com/ghpvc/?username=kat-parenteau&color=red)
