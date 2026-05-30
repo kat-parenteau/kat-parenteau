@@ -1,8 +1,11 @@
 # Hi there, I'm Kathryn 👋
 ## 🕵️‍♀️ AML | Financial Crime | Fraud Investigation | Financial Crime/AML Typology
+---
 
 I am a technical professional bridging the gap between regulatory theory and technical execution. With an academic foundation in Computing (specializing in Cognitive Science) from Queen's University, I specialize in understanding the psychological mechanics of financial crime (social engineering, fraud) and translating those typologies into data-driven, automated controls.
-My focus is on AML, Fraud Analysis, and Compliance.
+
+Outside the classroom, I build and learn rigorously. The projects below are a reflection of that, with each one being grounded in real frameworks, typologies, and regulatory context.
+
 ---
 ### 📂 Featured Portfolio Projects
 *   **[AML Risk Scoring Model](https://github.com/kat-parenteau/aml-risk-scoring-model)**
