@@ -15,7 +15,7 @@ Outside the classroom, I build and learn rigorously. The projects below are a re
 *   **[AML/ATF Financial Crime Typology Analysis](https://github.com/kat-parenteau/FINTRAC-OA001-review)**
     Analyzed FINTRAC operational alerts to deconstruct romance fraud and money laundering typologies. Mapped behavioral and transactional risk indicators to detection strategies, including rule-based transaction monitoring logic and escalation workflows for suspicious activity reporting.
 *   **[CSV Data Analysis & Visualization](https://github.com/kat-parenteau/neuro-bold-viz)**
-    Utilized Python (NumPy) and custom CSV datasets to identify and visualize data programmatically!
+    Utilized Python (Matplotlib & Pandas) and custom CSV datasets to identify and visualize data programmatically!
 ---
 ### 🛠️ Technical Arsenal & Competencies
 *   **Risk & Compliance (GRC):** AML/ATF Fundamentals, KYC/EDD, Sanctions Screening, Typology Research, Regulatory Reporting (FINTRAC)
